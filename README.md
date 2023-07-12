@@ -1,2 +1,2 @@
 # geracao-de-senha
-Programa que cria senha aleatório a partir da tabela ASCII (prática WoMakersCode)
+Programa que cria senha aleatória a partir da tabela ASCII (prática WoMakersCode)
